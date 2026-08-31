@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "/xinfeng.github.io"
+  baseUrl: python3099.github.io/xinfeng.github.io
   ignorePatterns:
     - private
     - templates
